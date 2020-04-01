@@ -1,0 +1,3 @@
+rootProject.name='AndroidPDFView'
+include ':app'
+include ':pdfview'
